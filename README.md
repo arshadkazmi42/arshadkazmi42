@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arshadkazmi42&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=arshadkazmi42&column=8&no-frame=true"/>
+</a>
 
-![Arshad github stats](https://github-readme-stats.vercel.app/api?username=arshadkazmi42&show_icons=true&count_private=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadkazmi42&layout=compact&theme=dracula&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=arshadkazmi42&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadkazmi42&layout=compact" />
+</div>
