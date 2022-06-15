@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Arshad
+Hi 👋 I am Arshad
 =======================
 
 Backend Developer & Opensource Contributor
