@@ -25,7 +25,7 @@ Hi 👋 I am Arshad
 Backend Developer & Opensource Contributor
 ------------------------------------------
 
-🌍  I'm based in Bangalore, India <br>
+🌍  I'm based in Berlin, Germany <br>
 🖥️  See my portfolio at [arshadkazmi42.github.io](http://arshadkazmi42.github.io) <br>
 ✉️  You can contact me at [arshadkazmi42@gmail.com](mailto:arshadkazmi42@gmail.com) <br>
   
