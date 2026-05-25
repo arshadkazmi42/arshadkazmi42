@@ -1,15 +1,8 @@
 <div align="center">
 
-```bash
-$ whoami
-arshad — @codermak
-$ ls ~/shipped/
-iscan.today  ispy.today  ghrev.com  issl.today  ilink.today  iblockbots.today
-$ cat /etc/role
-builder · hunter · berlin 🇩🇪
-$ status
-[ shipping 🚀 ]
-```
+# arshad
+
+### builder · hunter · berlin 🇩🇪
 
 <!-- Rotating typing animation -->
 <a href="https://twitter.com/arshadkazmi42">
