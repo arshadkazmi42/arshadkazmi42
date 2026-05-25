@@ -1,26 +1,15 @@
-<div align="center">
+# 👋 hi, i'm `arshad`
 
-<!-- Hero: custom SVG (assets/hero.svg) — dark, gradient headline, tool-chip row, stat strip -->
-<img width="100%" src="./assets/hero.svg" alt="arshad — i ship tools for hackers · 6 SaaS live · @codermak"/>
+> [!TIP]
+> ### i build SaaS tools that help hackers find bugs faster.
+>
+> `builder` · `bug bounty hunter` · `berlin 🇩🇪` · hunting as **[@codermak](https://hackerone.com/codermak)**
+>
+> 🚢 **live →** [iscan](https://iscan.today) · [ispy](https://ispy.today) · [issl](https://issl.today) · [ilink](https://ilink.today) · [ghrev](https://ghrev.com) · [iblockbots](https://iblockbots.today)
 
-<!-- Rotating subtitle below the hero -->
-<a href="https://twitter.com/arshadkazmi42">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=900&center=true&vCenter=true&width=720&height=36&color=22dd88&lines=Find+your+next+bounty+with+iScan.today;Real-time+GitHub+leak+alerts+%E2%86%92+iSpy.today;AI+PR+reviews+%E2%86%92+GhRev.com;Block+AI+reply+bots+%E2%86%92+iBlockBots.today" alt="Rotating product CTAs"/>
-</a>
-
-<!-- Stat chips for instant social proof -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=arshadkazmi42&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views"/>
-  <a href="https://github.com/arshadkazmi42?tab=followers"><img src="https://img.shields.io/github/followers/arshadkazmi42?style=for-the-badge&color=22dd88&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers"/></a>
-  <img src="https://img.shields.io/badge/SHIPPED-6%20tools-d73a49?style=for-the-badge&labelColor=000000" alt="6 tools shipped"/>
-</p>
-
-<!-- Socials -->
-[![X](https://img.shields.io/badge/follow-%40arshadkazmi42-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arshadkazmi42)
+[![follow on X](https://img.shields.io/badge/follow-%40arshadkazmi42-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arshadkazmi42)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadkazmi42)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshadkazmi42@gmail.com)
-
-</div>
 
 <br/>
 
