@@ -1,12 +1,11 @@
 <div align="center">
 
-# arshad
+<!-- Hero: custom SVG (assets/hero.svg) — dark, gradient headline, tool-chip row, stat strip -->
+<img width="100%" src="./assets/hero.svg" alt="arshad — i ship tools for hackers · 6 SaaS live · @codermak"/>
 
-### builder · hunter · berlin 🇩🇪
-
-<!-- Rotating typing animation -->
+<!-- Rotating subtitle below the hero -->
 <a href="https://twitter.com/arshadkazmi42">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&center=true&vCenter=true&width=720&height=44&color=22dd88&lines=I+ship+SaaS+tools+for+hackers+%F0%9F%94%90;Bug+bounty+hunter+%E2%80%94+%40codermak;6+products+live%2C+more+on+the+way+%F0%9F%9A%80;Backend+engineer+%40+%40smartlyio;Find+your+next+bounty+with+iScan.today" alt="Rotating intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=900&center=true&vCenter=true&width=720&height=36&color=22dd88&lines=Find+your+next+bounty+with+iScan.today;Real-time+GitHub+leak+alerts+%E2%86%92+iSpy.today;AI+PR+reviews+%E2%86%92+GhRev.com;Block+AI+reply+bots+%E2%86%92+iBlockBots.today" alt="Rotating product CTAs"/>
 </a>
 
 <!-- Stat chips for instant social proof -->
