@@ -1,11 +1,19 @@
 <div align="center">
 
-<!-- Hero banner: animated wave + name baked into the SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6e40c9,100:1a1a40&height=240&section=header&text=arshad&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20·%20hunter%20·%20berlin&descSize=22&descAlignY=64&descAlign=50" alt="arshad — builder · hunter · berlin"/>
+```bash
+$ whoami
+arshad — @codermak
+$ ls ~/shipped/
+iscan.today  ispy.today  ghrev.com  issl.today  ilink.today  iblockbots.today
+$ cat /etc/role
+builder · hunter · berlin 🇩🇪
+$ status
+[ shipping 🚀 ]
+```
 
 <!-- Rotating typing animation -->
 <a href="https://twitter.com/arshadkazmi42">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&center=true&vCenter=true&width=720&height=44&color=22dd88&lines=I+ship+SaaS+tools+for+hackers+%F0%9F%94%90;Bug+bounty+hunter+%E2%80%94+%40codermak;6+products+live%2C+more+on+the+way+%F0%9F%9A%80;Backend+engineer+%40+%40smartlyio;Find+your+next+bounty+with+iScan.today" alt="Rotating intro: I ship SaaS tools for hackers, Bug bounty hunter @codermak, 6 products live, Backend engineer @smartlyio"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&center=true&vCenter=true&width=720&height=44&color=22dd88&lines=I+ship+SaaS+tools+for+hackers+%F0%9F%94%90;Bug+bounty+hunter+%E2%80%94+%40codermak;6+products+live%2C+more+on+the+way+%F0%9F%9A%80;Backend+engineer+%40+%40smartlyio;Find+your+next+bounty+with+iScan.today" alt="Rotating intro"/>
 </a>
 
 <!-- Stat chips for instant social proof -->
@@ -84,7 +92,7 @@ Chrome extension. BYO API key.
 <div align="center">
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-codermak-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000)](https://hackerone.com/codermak)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-codermak-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=000000)](https://bugcrowd.com/codermak)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-codermak-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=000000)](https://bugcrowd.com/h/codermak)
 [![Intigriti](https://img.shields.io/badge/Intigriti-codermak-FF0050?style=for-the-badge&logo=intigriti&logoColor=white&labelColor=000000)](https://app.intigriti.com/profile/codermak)
 [![YesWeHack](https://img.shields.io/badge/YesWeHack-codermak-EE0034?style=for-the-badge&logo=yeswehack&logoColor=white&labelColor=000000)](https://yeswehack.com/hunters/codermak)
 
@@ -111,7 +119,5 @@ Chrome extension. BYO API key.
 <div align="center">
 
 ### 💬 Got an idea or want to collab? [DM me on X →](https://twitter.com/arshadkazmi42)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a40,100:0891b2&height=80&section=footer"/>
 
 </div>
