@@ -1,10 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1a1a40&height=180&section=header&text=Arshad&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=42" alt="Arshad"/>
+<!-- Hero banner: animated wave + name baked into the SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6e40c9,100:1a1a40&height=240&section=header&text=arshad&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20·%20hunter%20·%20berlin&descSize=22&descAlignY=64&descAlign=50" alt="arshad — builder · hunter · berlin"/>
 
-### 🇩🇪 Berlin &nbsp;·&nbsp; 🐛 Bug Bounty Hunter &nbsp;·&nbsp; 🛠️ Indie Tool Builder
+<!-- Rotating typing animation -->
+<a href="https://twitter.com/arshadkazmi42">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&center=true&vCenter=true&width=720&height=44&color=22dd88&lines=I+ship+SaaS+tools+for+hackers+%F0%9F%94%90;Bug+bounty+hunter+%E2%80%94+%40codermak;6+products+live%2C+more+on+the+way+%F0%9F%9A%80;Backend+engineer+%40+%40smartlyio;Find+your+next+bounty+with+iScan.today" alt="Rotating intro: I ship SaaS tools for hackers, Bug bounty hunter @codermak, 6 products live, Backend engineer @smartlyio"/>
+</a>
 
-[![X](https://img.shields.io/badge/-@arshadkazmi42-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arshadkazmi42)
+<!-- Stat chips for instant social proof -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arshadkazmi42&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views"/>
+  <a href="https://github.com/arshadkazmi42?tab=followers"><img src="https://img.shields.io/github/followers/arshadkazmi42?style=for-the-badge&color=22dd88&labelColor=000000&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers"/></a>
+  <img src="https://img.shields.io/badge/SHIPPED-6%20tools-d73a49?style=for-the-badge&labelColor=000000" alt="6 tools shipped"/>
+</p>
+
+<!-- Socials -->
+[![X](https://img.shields.io/badge/follow-%40arshadkazmi42-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arshadkazmi42)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadkazmi42)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshadkazmi42@gmail.com)
 
