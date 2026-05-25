@@ -1,79 +1,92 @@
-<!--
+# 👋 hi, i'm `arshad`
 
-### Hi there 👋
+> [!TIP]
+> ### i build SaaS tools that help hackers find bugs faster.
+>
+> `builder` · `bug bounty hunter` · `berlin 🇩🇪` · hunting as **[@codermak](https://hackerone.com/codermak)**
+>
+> 🚢 **live →** [iscan](https://iscan.today) · [ispy](https://ispy.today) · [issl](https://issl.today) · [ilink](https://ilink.today) · [ghrev](https://ghrev.com) · [iblockbots](https://iblockbots.today)
 
-**arshadkazmi42/arshadkazmi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![follow on X](https://img.shields.io/badge/follow-%40arshadkazmi42-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arshadkazmi42)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadkazmi42)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshadkazmi42@gmail.com)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tools I'm Shipping
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### [🔍 iScan.today](https://iscan.today)
+**Secret scanner for bug bounty hunters.**  
+Catch leaked secrets — earn bigger bounties.
 
-Hi 👋 I am Arshad
-=======================
+</td>
+<td width="50%" valign="top">
 
-Backend Developer & Opensource Contributor
-------------------------------------------
+### [👀 iSpy.today](https://ispy.today)
+**Real-time GitHub leak monitor.**  
+Get alerts the moment secrets drop.
 
-🌍  I'm based in Berlin, Germany <br>
-🖥️  See my portfolio at [arshadkazmi42.github.io](http://arshadkazmi42.github.io) <br>
-✉️  You can contact me at [arshadkazmi42@gmail.com](mailto:arshadkazmi42@gmail.com) <br>
-  
-## Socials
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://www.github.com/arshadkazmi42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arshadkazmi42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@arshadkazmi42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/3136282/arshad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/arshadkazmi42" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+### [🔒 iSsl.today](https://issl.today)
+**SSL & subdomain takeover alerts.**  
+Slack + Discord, on autopilot.
 
-## Skills
+</td>
+<td width="50%" valign="top">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" height="36" alt="Android" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+### [🔗 iLink.today](https://ilink.today)
+**E2E encrypted self-destruct links.**  
+The encrypted Privnote alternative.
 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+### [🤖 GhRev.com](https://ghrev.com)
+**AI copilot for GitHub PR reviews.**  
+Workflow diagrams, PR-aware chat.
 
-<a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+### [🚫 iBlockBots.today](https://iblockbots.today)
+**Kill AI reply bots on X.**  
+Chrome extension. BYO API key.
 
-## Badges
+</td>
+</tr>
+</table>
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=arshadkazmi42&column=8&no-frame=true"/>
-</a>
+## 🐛 Hunting as `codermak`
 
-<a href="http://www.github.com/arshadkazmi42"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadkazmi42&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![HackerOne](https://img.shields.io/badge/HackerOne-codermak-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000)](https://hackerone.com/codermak)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-codermak-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=000000)](https://bugcrowd.com/h/codermak)
+[![Intigriti](https://img.shields.io/badge/Intigriti-codermak-FF0050?style=for-the-badge&logo=intigriti&logoColor=white&labelColor=000000)](https://app.intigriti.com/profile/codermak)
+[![YesWeHack](https://img.shields.io/badge/YesWeHack-codermak-EE0034?style=for-the-badge&logo=yeswehack&logoColor=white&labelColor=000000)](https://yeswehack.com/hunters/codermak)
 
-<a href="http://www.github.com/arshadkazmi42"><img src="https://activity-graph.herokuapp.com/graph?username=arshadkazmi42&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br/>
 
-<a href="https://github.com/arshadkazmi42" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadkazmi42&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+## ⭐ Open Source
 
+[![currency-symbols](https://img.shields.io/pypi/dm/currency-symbols?style=for-the-badge&label=💸%20currency--symbols&labelColor=000000&color=3776AB)](https://pypi.org/project/currency-symbols/)
+[![strix-claude-code](https://img.shields.io/badge/🦅_strix--claude--code-AI_pentest_agent-d73a49?style=for-the-badge&labelColor=000000)](https://github.com/arshadkazmi42/strix-claude-code)
+[![first-issues](https://img.shields.io/badge/🚀_first--issues-⭐_175-22dd88?style=for-the-badge&labelColor=000000)](https://github.com/arshadkazmi42/first-issues)
+[![github-scanner-local](https://img.shields.io/badge/🔎_github--scanner--local-⭐_35-6e40c9?style=for-the-badge&labelColor=000000)](https://github.com/arshadkazmi42/github-scanner-local)
+[![ak-cli](https://img.shields.io/badge/⚡_ak--cli-⭐_42-f59e0b?style=for-the-badge&labelColor=000000)](https://github.com/arshadkazmi42/ak-cli)
 
-</div>
+<sub>+ 320 more repos on [@arshadkazmi42](https://github.com/arshadkazmi42?tab=repositories).</sub>
+
+<br/>
+
+### 💬 Got an idea or want to collab? [DM me on X →](https://twitter.com/arshadkazmi42)
